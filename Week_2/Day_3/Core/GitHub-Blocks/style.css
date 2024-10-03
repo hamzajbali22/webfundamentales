@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: darkcyan;
+}
+.youssef{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+
+}
+.hamza{
+    display: flex;
+}
+.spider{
+    display: flex;
+}
