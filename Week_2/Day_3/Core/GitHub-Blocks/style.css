@@ -1,8 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 h1{
     text-align: center;
     color: darkcyan;
 }
 .youssef{
+    height: 500px;
+    width: 500px;
     background-color: aqua;
     display: flex;
     justify-content: space-between;
@@ -10,7 +16,16 @@ h1{
 }
 .hamza{
     display: flex;
+    height: 500px;
+    width: 500px;
+
 }
 .spider{
     display: flex;
+    height: 500px;
+    width: 500px;
+}
+img{
+    width: 200px;
+    height: 200px;
 }
